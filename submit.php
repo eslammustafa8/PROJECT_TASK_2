@@ -21,10 +21,10 @@
             header('Location: index.php?error=email');
                 exit();
      }
-    //  if(!preg_match($passwordPattern, $password)){
-    //     header('Location: index.php?error=password');
-    //         exit();
-    //  } 
+     if(!preg_match($passwordPattern, $password)){
+        header('Location: index.php?error=password');
+            exit();
+     } 
 
      
          $data = [
