@@ -4,10 +4,10 @@
 This project involves validation and success criteria for a given task.
 
 ## Validation
-![Validation](path/to/validation-image.png)
+![Validation](succ.png)
 
 ## Success
-![Success](path/to/success-image.png)
+![Success](err.png)
 
 ## How to Use
 1. Ensure all dependencies are installed.
